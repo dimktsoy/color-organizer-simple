@@ -1,0 +1,11 @@
+.star-rating {
+  text-align: center;
+
+  &__list {
+    display: inline-flex;
+  }
+
+  &__stat {
+    margin: 0;
+  }
+}
