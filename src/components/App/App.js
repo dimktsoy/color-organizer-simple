@@ -34,7 +34,6 @@ class App extends React.Component {
     this.setState((prevState) => ({
       colors: prevState.colors.filter((color) => color.id !== id),
     }));
-    console.log(11);
   }
 
   render() {
