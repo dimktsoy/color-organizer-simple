@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.0443943d.chunk.css",
-    "main.js": "/static/js/main.720c978f.chunk.js",
-    "main.js.map": "/static/js/main.720c978f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0d35a6e0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0d35a6e0.js.map",
-    "static/js/2.54cf1a30.chunk.js": "/static/js/2.54cf1a30.chunk.js",
-    "static/js/2.54cf1a30.chunk.js.map": "/static/js/2.54cf1a30.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.28da533056e0a197b926fed2317be1f8.js": "/precache-manifest.28da533056e0a197b926fed2317be1f8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.0443943d.chunk.css.map": "/static/css/main.0443943d.chunk.css.map",
-    "static/js/2.54cf1a30.chunk.js.LICENSE.txt": "/static/js/2.54cf1a30.chunk.js.LICENSE.txt",
-    "static/media/color-icon-remove.svg": "/static/media/color-icon-remove.91bebd82.svg"
+    "main.css": "/color-organizer/static/css/main.0443943d.chunk.css",
+    "main.js": "/color-organizer/static/js/main.720c978f.chunk.js",
+    "main.js.map": "/color-organizer/static/js/main.720c978f.chunk.js.map",
+    "runtime-main.js": "/color-organizer/static/js/runtime-main.430e8e47.js",
+    "runtime-main.js.map": "/color-organizer/static/js/runtime-main.430e8e47.js.map",
+    "static/js/2.54cf1a30.chunk.js": "/color-organizer/static/js/2.54cf1a30.chunk.js",
+    "static/js/2.54cf1a30.chunk.js.map": "/color-organizer/static/js/2.54cf1a30.chunk.js.map",
+    "index.html": "/color-organizer/index.html",
+    "precache-manifest.941f2f0fef87385f200b53492c992965.js": "/color-organizer/precache-manifest.941f2f0fef87385f200b53492c992965.js",
+    "service-worker.js": "/color-organizer/service-worker.js",
+    "static/css/main.0443943d.chunk.css.map": "/color-organizer/static/css/main.0443943d.chunk.css.map",
+    "static/js/2.54cf1a30.chunk.js.LICENSE.txt": "/color-organizer/static/js/2.54cf1a30.chunk.js.LICENSE.txt",
+    "static/media/color-icon-remove.svg": "/color-organizer/static/media/color-icon-remove.91bebd82.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d35a6e0.js",
+    "static/js/runtime-main.430e8e47.js",
     "static/js/2.54cf1a30.chunk.js",
     "static/css/main.0443943d.chunk.css",
     "static/js/main.720c978f.chunk.js"
