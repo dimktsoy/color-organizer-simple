@@ -3,7 +3,11 @@ import PropTypes from 'prop-types';
 import Color from './../Color/Color';
 import './ColorList.scss';
 
-const ColorList = ({ colors = [], onRemoveColor = (f) => f }) => {
+const ColorList = ({
+  colors = [],
+  onRate = (f) => f,
+  onRemoveColor = (f) => f,
+}) => {
   return (
     <div className="color-list">
       {colors.map((color) => (
@@ -11,6 +15,7 @@ const ColorList = ({ colors = [], onRemoveColor = (f) => f }) => {
           key={color.id}
           {...color}
           onRemoveColor={() => onRemoveColor(color.id)}
+          onRate={(rating) => onRate(color.id, rating)}
         />
       ))}
     </div>
@@ -20,6 +25,7 @@ const ColorList = ({ colors = [], onRemoveColor = (f) => f }) => {
 ColorList.propTypes = {
   colors: PropTypes.array,
   onRemoveColor: PropTypes.func,
+  onRate: PropTypes.func,
 };
 
 export default ColorList;
