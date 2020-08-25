@@ -1,7 +1,7 @@
 import React from 'react';
 import { v4 } from 'uuid';
-import AddColorForm from './../AddColorForm/AddColorForm';
-import ColorList from './../ColorList/ColorList';
+import AddColorForm from './components/AddColorForm/AddColorForm';
+import ColorList from './components/ColorList/ColorList';
 import './App.scss';
 
 class App extends React.Component {
