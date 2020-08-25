@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/color-organizer/static/css/main.0443943d.chunk.css",
-    "main.js": "/color-organizer/static/js/main.720c978f.chunk.js",
-    "main.js.map": "/color-organizer/static/js/main.720c978f.chunk.js.map",
+    "main.js": "/color-organizer/static/js/main.b74652bf.chunk.js",
+    "main.js.map": "/color-organizer/static/js/main.b74652bf.chunk.js.map",
     "runtime-main.js": "/color-organizer/static/js/runtime-main.430e8e47.js",
     "runtime-main.js.map": "/color-organizer/static/js/runtime-main.430e8e47.js.map",
     "static/js/2.54cf1a30.chunk.js": "/color-organizer/static/js/2.54cf1a30.chunk.js",
     "static/js/2.54cf1a30.chunk.js.map": "/color-organizer/static/js/2.54cf1a30.chunk.js.map",
     "index.html": "/color-organizer/index.html",
-    "precache-manifest.941f2f0fef87385f200b53492c992965.js": "/color-organizer/precache-manifest.941f2f0fef87385f200b53492c992965.js",
+    "precache-manifest.c83978624724a42f34c5cb1bd2a379bc.js": "/color-organizer/precache-manifest.c83978624724a42f34c5cb1bd2a379bc.js",
     "service-worker.js": "/color-organizer/service-worker.js",
     "static/css/main.0443943d.chunk.css.map": "/color-organizer/static/css/main.0443943d.chunk.css.map",
     "static/js/2.54cf1a30.chunk.js.LICENSE.txt": "/color-organizer/static/js/2.54cf1a30.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.430e8e47.js",
     "static/js/2.54cf1a30.chunk.js",
     "static/css/main.0443943d.chunk.css",
-    "static/js/main.720c978f.chunk.js"
+    "static/js/main.b74652bf.chunk.js"
   ]
 }
