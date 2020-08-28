@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/color-organizer/static/css/main.0443943d.chunk.css",
-    "main.js": "/color-organizer/static/js/main.b74652bf.chunk.js",
-    "main.js.map": "/color-organizer/static/js/main.b74652bf.chunk.js.map",
-    "runtime-main.js": "/color-organizer/static/js/runtime-main.430e8e47.js",
-    "runtime-main.js.map": "/color-organizer/static/js/runtime-main.430e8e47.js.map",
-    "static/js/2.54cf1a30.chunk.js": "/color-organizer/static/js/2.54cf1a30.chunk.js",
-    "static/js/2.54cf1a30.chunk.js.map": "/color-organizer/static/js/2.54cf1a30.chunk.js.map",
-    "index.html": "/color-organizer/index.html",
-    "precache-manifest.c83978624724a42f34c5cb1bd2a379bc.js": "/color-organizer/precache-manifest.c83978624724a42f34c5cb1bd2a379bc.js",
-    "service-worker.js": "/color-organizer/service-worker.js",
-    "static/css/main.0443943d.chunk.css.map": "/color-organizer/static/css/main.0443943d.chunk.css.map",
-    "static/js/2.54cf1a30.chunk.js.LICENSE.txt": "/color-organizer/static/js/2.54cf1a30.chunk.js.LICENSE.txt",
-    "static/media/color-icon-remove.svg": "/color-organizer/static/media/color-icon-remove.91bebd82.svg"
+    "main.css": "/color-organizer-simple/static/css/main.0443943d.chunk.css",
+    "main.js": "/color-organizer-simple/static/js/main.50fa9f61.chunk.js",
+    "main.js.map": "/color-organizer-simple/static/js/main.50fa9f61.chunk.js.map",
+    "runtime-main.js": "/color-organizer-simple/static/js/runtime-main.a154becc.js",
+    "runtime-main.js.map": "/color-organizer-simple/static/js/runtime-main.a154becc.js.map",
+    "static/js/2.80e41dc9.chunk.js": "/color-organizer-simple/static/js/2.80e41dc9.chunk.js",
+    "static/js/2.80e41dc9.chunk.js.map": "/color-organizer-simple/static/js/2.80e41dc9.chunk.js.map",
+    "index.html": "/color-organizer-simple/index.html",
+    "precache-manifest.098509e408ebae26d65584c7355069fd.js": "/color-organizer-simple/precache-manifest.098509e408ebae26d65584c7355069fd.js",
+    "service-worker.js": "/color-organizer-simple/service-worker.js",
+    "static/css/main.0443943d.chunk.css.map": "/color-organizer-simple/static/css/main.0443943d.chunk.css.map",
+    "static/js/2.80e41dc9.chunk.js.LICENSE.txt": "/color-organizer-simple/static/js/2.80e41dc9.chunk.js.LICENSE.txt",
+    "static/media/color-icon-remove.svg": "/color-organizer-simple/static/media/color-icon-remove.91bebd82.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.430e8e47.js",
-    "static/js/2.54cf1a30.chunk.js",
+    "static/js/runtime-main.a154becc.js",
+    "static/js/2.80e41dc9.chunk.js",
     "static/css/main.0443943d.chunk.css",
-    "static/js/main.b74652bf.chunk.js"
+    "static/js/main.50fa9f61.chunk.js"
   ]
 }
